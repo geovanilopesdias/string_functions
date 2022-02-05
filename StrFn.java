@@ -1,8 +1,6 @@
 package grammar_classes;
 
-import java.lang.Math;
 import java.util.Arrays;
-import grammar_classes.PTUnSubject;
 
 /**
  * @author      Geovani Lopes Dias <geovani.phy.dias @ gmail.com>
